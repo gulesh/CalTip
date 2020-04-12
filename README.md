@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif).
+GIF created with [file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif](file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif).
 
 ## Notes
 
