@@ -23,13 +23,14 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
+
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## GIF Walkthrough 
 
-GIF created with [file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif](file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif).
+GIF created with [file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif]
+<img src='https://i.imgur.com/Ejyt7Z0.gifv' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 ## Notes
 
