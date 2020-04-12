@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 ## GIF Walkthrough 
 
 GIF created with [LICEcap]
-<img src="https://i.imgur.com/Ejyt7Z0.gifv' title='GIF Walkthrough" width=250 ><br>
+<img src="https://i.imgur.com/Ejyt7Z0.gifv" width=250 ><br>
 
 ## Notes
 
