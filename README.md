@@ -10,7 +10,7 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is complete:
 
-* [Done] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](file:///Users/gulesh_shukla/Desktop/Recording%20CalTip.gif).
 
 ## Notes
 
